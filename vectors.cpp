@@ -42,4 +42,5 @@ int main() {
      ans = ans ^ val;
     }
     cout<<ans<<endl;
+    return 0;
 }
