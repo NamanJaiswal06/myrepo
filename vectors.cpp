@@ -36,7 +36,11 @@ using namespace std;
 //      return 0;
 // }
 
+
 void bubblesort(){
+}
+void quicksort(){
+
     
 }
 int main() {
