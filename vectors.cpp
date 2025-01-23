@@ -35,6 +35,9 @@ using namespace std;
 //      cout<< vec.at(1)<< endl;
 //      return 0;
 // }
+void quicksort(){
+    
+}
 int main() {
     vector<int>vect = { 1,2,1,2,4};
     int ans = 0;
