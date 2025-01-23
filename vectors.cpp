@@ -43,6 +43,9 @@ void quicksort(){
 
     
 }
+void mergesort(){
+    
+}
 int main() {
     vector<int>vect = { 1,2,1,2,4};
     int ans = 0;
